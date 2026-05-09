@@ -1,0 +1,6 @@
+streamlit>=1.38.0
+pandas
+yfinance
+plotly
+python-dateutil
+sqlite3  # built-in, but listed for clarity
