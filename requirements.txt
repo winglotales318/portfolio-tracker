@@ -1,6 +1,5 @@
-streamlit>=1.38.0
+streamlit
 pandas
 yfinance
 plotly
 python-dateutil
-sqlite3  # built-in, but listed for clarity
